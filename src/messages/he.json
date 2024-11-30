@@ -1,0 +1,16 @@
+{
+  "Welcome": {
+    "title": "שלום, עולם מעוצב!"
+  },
+  "Theme": {
+    "toggleTheme": "החלף נושא",
+     "modeSwitch": "החלף ל",
+     "lightMode": "בהיר",
+     "darkMode": "כהה"
+  },
+  "LocaleSwitcher": {
+    "label": "שנה שפה",
+    "he": "עברית",
+    "en": "English"
+  }
+}

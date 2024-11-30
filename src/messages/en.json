@@ -1,0 +1,17 @@
+{
+    "Welcome": {
+      "title": "Hello, Themed World!"
+    },
+    "Theme": {
+      "toggleTheme": "Toggle Theme",
+       "modeSwitch": "Switch to",
+       "lightMode": "light",
+       "darkMode": "dark"
+    },
+    "LocaleSwitcher": {
+    "label": "Change language",
+    "he": "עברית",
+    "en": "English"
+  }
+}
+
